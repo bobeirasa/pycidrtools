@@ -1,4 +1,4 @@
-__author__ = 'Rafael Lopes <dev@rafalopes>'
+__author__ = 'Rafael Lopes <dev@rafalopes.com.br>'
 
 import ipaddr
 
